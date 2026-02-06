@@ -1,0 +1,15 @@
+﻿  croutine.c
+  event_groups.c
+  list.c
+  heap_4.c
+  port.c
+  queue.c
+  stream_buffer.c
+C:\FreeRTOSv202406.01-LTS\FreeRTOS-LTS\FreeRTOS\FreeRTOS-Kernel\portable\MSVC-MingW\port.c(173,20): warning C4244: 'function': conversion from 'TickType_t' to 'DWORD', possible loss of data
+  tasks.c
+  timers.c
+  main.c
+  Generating Code...
+tasks.obj : error LNK2019: unresolved external symbol vApplicationStackOverflowHook referenced in function vTaskSwitchContext
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 2 unresolved externals

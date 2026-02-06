@@ -1,0 +1,17 @@
+﻿  croutine.c
+  event_groups.c
+  list.c
+  heap_4.c
+  port.c
+  queue.c
+C:\FreeRTOS\FreeRTOSv202406.01-LTS\FreeRTOS-LTS\FreeRTOS\FreeRTOS-Kernel\portable\MSVC-MingW\port.c(173,20): warning C4244: 'function': conversion from 'TickType_t' to 'DWORD', possible loss of data
+  stream_buffer.c
+  tasks.c
+  timers.c
+  main.c
+C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Project\SmartParkingLotManagementSystem\main.c(29,9): warning C4005: 'MAX_SLOTS': macro redefinition
+      C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Project\SmartParkingLotManagementSystem\main.c(9,9):
+      see previous definition of 'MAX_SLOTS'
+  
+  Generating Code...
+  Project1.vcxproj -> C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Project\SmartParkingLotManagementSystem\Debug\SmartParkingLotManagementSystem.exe

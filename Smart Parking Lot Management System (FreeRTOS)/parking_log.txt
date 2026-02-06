@@ -1,0 +1,91 @@
+[20:04:40] Slot ID: P00, Vehicle ID: VIP007, VIP Assigned
+[20:04:40] Slot ID: P01, Vehicle ID: V203, Assigned
+[20:04:46] Slot ID: P02, Vehicle ID: V203, Assigned
+[20:04:51] Slot ID: P01, Vehicle ID: V203, Assigned
+[20:04:56] Slot ID: P03, Vehicle ID: VIP007, VIP Assigned
+[20:04:56] Slot ID: P04, Vehicle ID: V203, Assigned
+[20:05:02] Slot ID: P05, Vehicle ID: V203, Assigned
+[20:05:09] Slot ID: P06, Vehicle ID: V203, Assigned
+[20:05:17] Slot ID: P07, Vehicle ID: VIP007, VIP Assigned
+[20:05:17] Slot ID: P04, Vehicle ID: V203, Assigned
+[20:05:23] Slot ID: P08, Vehicle ID: V203, Assigned
+[20:06:11] Slot ID: P00, Vehicle ID: VIP007, VIP Assigned
+[20:06:11] Slot ID: P01, Vehicle ID: V203, Assigned
+[20:06:16] Slot ID: P02, Vehicle ID: V203, Assigned
+[20:06:22] Slot ID: P01, Vehicle ID: V203, Assigned
+[20:06:27] Slot ID: P03, Vehicle ID: VIP007, VIP Assigned
+[20:06:27] Slot ID: P04, Vehicle ID: V203, Assigned
+[20:06:33] Slot ID: P05, Vehicle ID: V203, Assigned
+[20:06:38] Slot ID: P06, Vehicle ID: V203, Assigned
+[20:06:44] Slot ID: P07, Vehicle ID: VIP007, VIP Assigned
+[20:06:44] Slot ID: P04, Vehicle ID: V203, Assigned
+[20:06:49] Slot ID: P08, Vehicle ID: V203, Assigned
+[20:06:55] Slot ID: P00, Vehicle ID: V203, Assigned
+[20:10:57] Slot ID: P00, Vehicle ID: VIP007, VIP Assigned
+[20:10:57] Slot ID: P01, Vehicle ID: V203, Assigned
+[20:11:03] Slot ID: P02, Vehicle ID: V203, Assigned
+[20:11:08] Slot ID: P01, Vehicle ID: N/A, Slot Released
+[20:11:08] Slot ID: P01, Vehicle ID: V203, Assigned
+[20:11:14] Slot ID: P03, Vehicle ID: VIP007, VIP Assigned
+[20:11:14] Slot ID: P04, Vehicle ID: V203, Assigned
+[20:14:23] Slot ID: P00, Vehicle ID: VIP007, VIP Assigned
+[20:14:23] Slot ID: P01, Vehicle ID: V203, Assigned
+[20:14:23] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[20:14:29] Slot ID: P00, Vehicle ID: V203, Assigned
+[20:14:34] Slot ID: P02, Vehicle ID: V203, Assigned
+[20:14:34] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[20:14:39] Slot ID: P00, Vehicle ID: VIP007, VIP Assigned
+[20:14:39] Slot ID: P03, Vehicle ID: V203, Assigned
+[20:14:45] Slot ID: P04, Vehicle ID: V203, Assigned
+[20:14:45] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[20:15:17] Slot ID: P00, Vehicle ID: VIP007, VIP Assigned
+[20:15:17] Slot ID: P01, Vehicle ID: V203, Assigned
+[20:15:17] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[20:15:23] Slot ID: P00, Vehicle ID: V203, Assigned
+[20:15:28] Slot ID: P02, Vehicle ID: V203, Assigned
+[20:15:34] Slot ID: P03, Vehicle ID: VIP007, VIP Assigned
+[20:15:34] Slot ID: P04, Vehicle ID: V203, Assigned
+[20:15:39] Slot ID: P05, Vehicle ID: V203, Assigned
+[20:15:45] Slot ID: P06, Vehicle ID: V203, Assigned
+[20:16:10] Slot ID: P00, Vehicle ID: VIP007, VIP Assigned
+[20:16:10] Slot ID: P01, Vehicle ID: V203, Assigned
+[20:16:10] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[20:16:15] Slot ID: P00, Vehicle ID: V203, Assigned
+[20:16:21] Slot ID: P02, Vehicle ID: V203, Assigned
+[20:16:26] Slot ID: P03, Vehicle ID: VIP007, VIP Assigned
+[20:16:26] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[20:16:26] Slot ID: P00, Vehicle ID: V203, Assigned
+[20:16:32] Slot ID: P04, Vehicle ID: V203, Assigned
+[20:16:37] Slot ID: P05, Vehicle ID: V203, Assigned
+[19:48:19] Slot ID: P00, Vehicle ID: VIP007, VIP Assigned
+[19:48:19] Slot ID: P01, Vehicle ID: V203, Assigned
+[19:48:19] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[19:48:25] Slot ID: P00, Vehicle ID: V203, Assigned
+[19:48:30] Slot ID: P02, Vehicle ID: V203, Assigned
+[19:48:36] Slot ID: P03, Vehicle ID: VIP007, VIP Assigned
+[19:48:36] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[19:48:36] Slot ID: P00, Vehicle ID: V203, Assigned
+[19:48:41] Slot ID: P04, Vehicle ID: V203, Assigned
+[19:48:47] Slot ID: P05, Vehicle ID: V203, Assigned
+[13:20:42] Slot ID: P00, Vehicle ID: VIP007, VIP Assigned
+[13:20:42] Slot ID: P01, Vehicle ID: V203, Assigned
+[13:20:42] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[13:20:48] Slot ID: P00, Vehicle ID: V203, Assigned
+[13:20:56] Slot ID: P02, Vehicle ID: V203, Assigned
+[13:21:05] Slot ID: P03, Vehicle ID: VIP007, VIP Assigned
+[13:21:05] Slot ID: P04, Vehicle ID: V203, Assigned
+[13:21:05] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[13:21:14] Slot ID: P00, Vehicle ID: V203, Assigned
+[13:21:22] Slot ID: P05, Vehicle ID: V203, Assigned
+[13:21:31] Slot ID: P06, Vehicle ID: VIP007, VIP Assigned
+[13:21:31] Slot ID: P07, Vehicle ID: V203, Assigned
+[13:21:31] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[13:21:40] Slot ID: P00, Vehicle ID: V203, Assigned
+[13:21:48] Slot ID: P08, Vehicle ID: V203, Assigned
+[13:21:57] Slot ID: P09, Vehicle ID: VIP007, VIP Assigned
+[13:21:57] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[13:22:05] Slot ID: P00, Vehicle ID: V203, Assigned
+[13:22:22] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[13:22:31] Slot ID: P00, Vehicle ID: V203, Assigned
+[13:22:48] Slot ID: P00, Vehicle ID: N/A, Slot Released
+[13:22:56] Slot ID: P00, Vehicle ID: V203, Assigned

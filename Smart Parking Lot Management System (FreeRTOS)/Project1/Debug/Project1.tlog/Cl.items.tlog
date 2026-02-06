@@ -1,0 +1,10 @@
+C:\FreeRTOS\FreeRTOSv202406.01-LTS\FreeRTOS-LTS\FreeRTOS\FreeRTOS-Kernel\croutine.c;C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\Project1\Debug\croutine.obj
+C:\FreeRTOS\FreeRTOSv202406.01-LTS\FreeRTOS-LTS\FreeRTOS\FreeRTOS-Kernel\event_groups.c;C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\Project1\Debug\event_groups.obj
+C:\FreeRTOS\FreeRTOSv202406.01-LTS\FreeRTOS-LTS\FreeRTOS\FreeRTOS-Kernel\list.c;C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\Project1\Debug\list.obj
+C:\FreeRTOS\FreeRTOSv202406.01-LTS\FreeRTOS-LTS\FreeRTOS\FreeRTOS-Kernel\portable\MemMang\heap_4.c;C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\Project1\Debug\heap_4.obj
+C:\FreeRTOS\FreeRTOSv202406.01-LTS\FreeRTOS-LTS\FreeRTOS\FreeRTOS-Kernel\portable\MSVC-MingW\port.c;C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\Project1\Debug\port.obj
+C:\FreeRTOS\FreeRTOSv202406.01-LTS\FreeRTOS-LTS\FreeRTOS\FreeRTOS-Kernel\queue.c;C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\Project1\Debug\queue.obj
+C:\FreeRTOS\FreeRTOSv202406.01-LTS\FreeRTOS-LTS\FreeRTOS\FreeRTOS-Kernel\stream_buffer.c;C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\Project1\Debug\stream_buffer.obj
+C:\FreeRTOS\FreeRTOSv202406.01-LTS\FreeRTOS-LTS\FreeRTOS\FreeRTOS-Kernel\tasks.c;C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\Project1\Debug\tasks.obj
+C:\FreeRTOS\FreeRTOSv202406.01-LTS\FreeRTOS-LTS\FreeRTOS\FreeRTOS-Kernel\timers.c;C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\Project1\Debug\timers.obj
+C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\main.c;C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\Project1\Debug\main.obj

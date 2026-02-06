@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\main.c(56,9): warning C4005: 'MAX_SLOTS': macro redefinition
+      C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\main.c(36,9):
+      see previous definition of 'MAX_SLOTS'
+  
+  Project1.vcxproj -> C:\Users\tshep\OneDrive\Desktop\Honors\ITESA\Test\Project1\Debug\Project1.exe
